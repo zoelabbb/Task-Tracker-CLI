@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "description": "Buy groceries",
+        "status": "todo",
+        "createdAt": "2024-09-27T07:51:10.777Z",
+        "updatedAt": "2024-09-27T07:51:10.788Z"
+    },
+    {
+        "id": 2,
+        "description": "Beli bawang goreng",
+        "status": "done",
+        "createdAt": "2024-09-27T07:53:57.765Z",
+        "updatedAt": "2024-09-27T07:54:36.104Z"
+    }
+]
